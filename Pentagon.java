@@ -1,0 +1,3 @@
+class Pentagon extends Shape{
+	
+}
